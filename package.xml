@@ -69,7 +69,6 @@
         <members>Opportunity.MainCompetitors__c</members>
         <members>Opportunity.OrderNumber__c</members>
         <members>Opportunity.TrackingNumber__c</members>
-        <members>khnbhk__c.m_nbs__c</members>
         <name>CustomField</name>
     </types>
     <types>
@@ -123,12 +122,7 @@
         <members>Task</members>
         <members>User</members>
         <members>UserProvisioningRequest</members>
-        <members>khnbhk__c</members>
         <name>CustomObject</name>
-    </types>
-    <types>
-        <members>khnbhk__c-en_US</members>
-        <name>CustomObjectTranslation</name>
     </types>
     <types>
         <members>unfiled$public</members>
@@ -192,7 +186,6 @@
         <members>UserProvAccount-User Provisioning Account Layout</members>
         <members>UserProvisioningLog-User Provisioning Log Layout</members>
         <members>UserProvisioningRequest-User Provisioning Request Layout</members>
-        <members>khnbhk__c-khnbhk Layout</members>
         <name>Layout</name>
     </types>
     <types>
@@ -372,7 +365,6 @@
         <members>Opportunity</members>
         <members>Order</members>
         <members>User</members>
-        <members>khnbhk__c</members>
         <name>SharingRules</name>
     </types>
     <types>
@@ -417,7 +409,6 @@
         <members>User</members>
         <members>UserLicense</members>
         <members>UserProvisioningRequest</members>
-        <members>khnbhk__c</members>
         <name>Workflow</name>
     </types>
     <types>

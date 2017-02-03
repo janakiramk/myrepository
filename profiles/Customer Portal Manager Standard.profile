@@ -1220,11 +1220,6 @@
         <field>Task.WhoId</field>
         <readable>true</readable>
     </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
-        <field>khnbhk__c.m_nbs__c</field>
-        <readable>false</readable>
-    </fieldPermissions>
     <layoutAssignments>
         <layout>Account-Account Layout</layout>
     </layoutAssignments>
@@ -1314,9 +1309,6 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>UserProvisioningRequest-User Provisioning Request Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>khnbhk__c-khnbhk Layout</layout>
     </layoutAssignments>
     <objectPermissions>
         <allowCreate>false</allowCreate>
