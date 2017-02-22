@@ -55,12 +55,12 @@
     <enableSearch>false</enableSearch>
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
-    <label>testingsample</label>
+    <label>duplicate_123</label>
     <nameField>
-        <label>testingsample Name</label>
+        <label>duplicate_123 Name</label>
         <type>Text</type>
     </nameField>
-    <pluralLabel>testingsamples</pluralLabel>
+    <pluralLabel>duplicates_123</pluralLabel>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
 </CustomObject>

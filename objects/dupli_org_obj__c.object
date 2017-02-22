@@ -55,12 +55,12 @@
     <enableSearch>false</enableSearch>
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
-    <label>dummy_object</label>
+    <label>dupli_org_obj</label>
     <nameField>
-        <label>dummy_object Name</label>
+        <label>dupli_org_obj Name</label>
         <type>Text</type>
     </nameField>
-    <pluralLabel>dummy_objects</pluralLabel>
+    <pluralLabel>dupli_org_objs</pluralLabel>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
 </CustomObject>

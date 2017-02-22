@@ -69,6 +69,7 @@
         <members>Opportunity.MainCompetitors__c</members>
         <members>Opportunity.OrderNumber__c</members>
         <members>Opportunity.TrackingNumber__c</members>
+        <members>khnbhk__c.m_nbs__c</members>
         <name>CustomField</name>
     </types>
     <types>
@@ -79,6 +80,7 @@
         <members>Account</members>
         <members>AccountCleanInfo</members>
         <members>AccountContactRole</members>
+        <members>Account__c</members>
         <members>Activity</members>
         <members>Asset</members>
         <members>AssistantProgress</members>
@@ -122,21 +124,22 @@
         <members>Task</members>
         <members>User</members>
         <members>UserProvisioningRequest</members>
-        <members>data77__c</members>
-        <members>dummy_object__c</members>
-        <members>org_obj_sample__c</members>
-        <members>sampleObject__c</members>
-        <members>substitute1__c</members>
-        <members>testingsample__c</members>
+        <members>dupli_org_obj__c</members>
+        <members>duplicate_123__c</members>
+        <members>khnbhk__c</members>
+        <members>menuObject__c</members>
+        <members>random_data_777__c</members>
+        <members>test__c</members>
         <name>CustomObject</name>
     </types>
     <types>
-        <members>data77__c-en_US</members>
-        <members>dummy_object__c-en_US</members>
-        <members>org_obj_sample__c-en_US</members>
-        <members>sampleObject__c-en_US</members>
-        <members>substitute1__c-en_US</members>
-        <members>testingsample__c-en_US</members>
+        <members>Account__c-en_US</members>
+        <members>dupli_org_obj__c-en_US</members>
+        <members>duplicate_123__c-en_US</members>
+        <members>khnbhk__c-en_US</members>
+        <members>menuObject__c-en_US</members>
+        <members>random_data_777__c-en_US</members>
+        <members>test__c-en_US</members>
         <name>CustomObjectTranslation</name>
     </types>
     <types>
@@ -165,6 +168,7 @@
         <members>Account-Account %28Sales%29 Layout</members>
         <members>Account-Account %28Support%29 Layout</members>
         <members>Account-Account Layout</members>
+        <members>Account__c-Account Layout</members>
         <members>Asset-Asset Layout</members>
         <members>Campaign-Campaign Layout</members>
         <members>CampaignMember-Campaign Member Page Layout</members>
@@ -183,6 +187,7 @@
         <members>DuplicateRecordSet-Duplicate Record Set Layout</members>
         <members>EmailMessage-Email Message Layout</members>
         <members>Event-Event Layout</members>
+        <members>FeedItem-Feed Item Layout</members>
         <members>Global-Global Layout</members>
         <members>Idea-Idea Layout</members>
         <members>Lead-Lead %28Marketing%29 Layout</members>
@@ -206,12 +211,12 @@
         <members>UserProvAccount-User Provisioning Account Layout</members>
         <members>UserProvisioningLog-User Provisioning Log Layout</members>
         <members>UserProvisioningRequest-User Provisioning Request Layout</members>
-        <members>data77__c-data77 Layout</members>
-        <members>dummy_object__c-dummy_object Layout</members>
-        <members>org_obj_sample__c-org_obj_sample Layout</members>
-        <members>sampleObject__c-sampleObject Layout</members>
-        <members>substitute1__c-substitute1 Layout</members>
-        <members>testingsample__c-testingsample Layout</members>
+        <members>dupli_org_obj__c-dupli_org_obj Layout</members>
+        <members>duplicate_123__c-duplicate_123 Layout</members>
+        <members>khnbhk__c-khnbhk Layout</members>
+        <members>menuObject__c-menuObject Layout</members>
+        <members>random_data_777__c-random_data_777 Layout</members>
+        <members>test__c-test Layout</members>
         <name>Layout</name>
     </types>
     <types>

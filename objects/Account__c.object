@@ -55,12 +55,12 @@
     <enableSearch>false</enableSearch>
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
-    <label>sampleObject</label>
+    <label>Account</label>
     <nameField>
-        <label>sampleObject Name</label>
+        <label>tttt Name</label>
         <type>Text</type>
     </nameField>
-    <pluralLabel>sampleObjects</pluralLabel>
+    <pluralLabel>Account</pluralLabel>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
 </CustomObject>

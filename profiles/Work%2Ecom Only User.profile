@@ -1295,8 +1295,16 @@
         <field>Task.WhoId</field>
         <readable>true</readable>
     </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>khnbhk__c.m_nbs__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
     <layoutAssignments>
         <layout>Account-Account Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Account__c-Account Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Asset-Asset Layout</layout>
@@ -1333,6 +1341,9 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>Event-Event Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>FeedItem-Feed Item Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Global-Global Layout</layout>
@@ -1386,22 +1397,22 @@
         <layout>UserProvisioningRequest-User Provisioning Request Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>data77__c-data77 Layout</layout>
+        <layout>dupli_org_obj__c-dupli_org_obj Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>dummy_object__c-dummy_object Layout</layout>
+        <layout>duplicate_123__c-duplicate_123 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>org_obj_sample__c-org_obj_sample Layout</layout>
+        <layout>khnbhk__c-khnbhk Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>sampleObject__c-sampleObject Layout</layout>
+        <layout>menuObject__c-menuObject Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>substitute1__c-substitute1 Layout</layout>
+        <layout>random_data_777__c-random_data_777 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>testingsample__c-testingsample Layout</layout>
+        <layout>test__c-test Layout</layout>
     </layoutAssignments>
     <recordTypeVisibilities>
         <default>false</default>
