@@ -21,10 +21,6 @@
         <type>Default</type>
     </actionOverrides>
     <actionOverrides>
-        <actionName>Follow</actionName>
-        <type>Default</type>
-    </actionOverrides>
-    <actionOverrides>
         <actionName>List</actionName>
         <type>Default</type>
     </actionOverrides>
@@ -55,20 +51,13 @@
     <enableSearch>false</enableSearch>
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
-    <fields>
-        <fullName>m_nbs__c</fullName>
-        <externalId>false</externalId>
-        <label>,m nb</label>
-        <required>false</required>
-        <trackTrending>false</trackTrending>
-        <type>Date</type>
-    </fields>
-    <label>khnbhk</label>
+    <label>sampleObject</label>
     <nameField>
-        <label>khnbhk Name</label>
+        <label>sampleObject Name</label>
         <type>Text</type>
     </nameField>
-    <pluralLabel>hjgkj</pluralLabel>
+    <pluralLabel>sampleObjects</pluralLabel>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
+    <visibility>Public</visibility>
 </CustomObject>

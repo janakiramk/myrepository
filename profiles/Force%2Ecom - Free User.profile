@@ -1295,16 +1295,8 @@
         <field>Task.WhoId</field>
         <readable>true</readable>
     </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
-        <field>khnbhk__c.m_nbs__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
     <layoutAssignments>
         <layout>Account-Account Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Account__c-Account Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Asset-Asset Layout</layout>
@@ -1341,9 +1333,6 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>Event-Event Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>FeedItem-Feed Item Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Global-Global Layout</layout>
@@ -1397,10 +1386,28 @@
         <layout>UserProvisioningRequest-User Provisioning Request Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>khnbhk__c-khnbhk Layout</layout>
+        <layout>data77__c-data77 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>test__c-test Layout</layout>
+        <layout>dummy_object__c-dummy_object Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>org_obj_sample__c-org_obj_sample Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>sampleObject__c-sampleObject Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>substitute1__c-substitute1 Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>testingsample__c-testingsample Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>trunkVariable__c-trunkVariable Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>trunk_label__c-trunk_label Layout</layout>
     </layoutAssignments>
     <recordTypeVisibilities>
         <default>false</default>
@@ -1565,6 +1572,10 @@
     <userPermissions>
         <enabled>true</enabled>
         <name>ShowCompanyNameAsUserBadge</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
+        <name>SubscribeToLightningReports</name>
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
