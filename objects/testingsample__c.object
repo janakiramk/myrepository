@@ -51,12 +51,12 @@
     <enableSearch>false</enableSearch>
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
-    <label>random_data_777</label>
+    <label>testingsample</label>
     <nameField>
-        <label>random_data_777 Name</label>
+        <label>testingsample Name</label>
         <type>Text</type>
     </nameField>
-    <pluralLabel>random_data_7778</pluralLabel>
+    <pluralLabel>testingsamples</pluralLabel>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
