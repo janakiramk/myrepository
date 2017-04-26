@@ -1415,6 +1415,12 @@
         <layout>menuObject__c-menuObject Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>newsampleObj1__c-newsampleObj1 Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>newsampleObj__c-newsampleObj Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>org_obj_sample__c-org_obj_sample Layout</layout>
     </layoutAssignments>
     <layoutAssignments>

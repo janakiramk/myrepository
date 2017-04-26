@@ -134,6 +134,8 @@
         <members>duplicate_123__c</members>
         <members>khnbhk__c</members>
         <members>menuObject__c</members>
+        <members>newsampleObj1__c</members>
+        <members>newsampleObj__c</members>
         <members>org_obj_sample__c</members>
         <members>random_data_777__c</members>
         <members>test__c</members>
@@ -148,6 +150,8 @@
         <members>duplicate_123__c-en_US</members>
         <members>khnbhk__c-en_US</members>
         <members>menuObject__c-en_US</members>
+        <members>newsampleObj1__c-en_US</members>
+        <members>newsampleObj__c-en_US</members>
         <members>org_obj_sample__c-en_US</members>
         <members>random_data_777__c-en_US</members>
         <members>test__c-en_US</members>
@@ -229,6 +233,8 @@
         <members>duplicate_123__c-duplicate_123 Layout</members>
         <members>khnbhk__c-khnbhk Layout</members>
         <members>menuObject__c-menuObject Layout</members>
+        <members>newsampleObj1__c-newsampleObj1 Layout</members>
+        <members>newsampleObj__c-newsampleObj Layout</members>
         <members>org_obj_sample__c-org_obj_sample Layout</members>
         <members>random_data_777__c-random_data_777 Layout</members>
         <members>test__c-test Layout</members>

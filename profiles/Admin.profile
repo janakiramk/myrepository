@@ -1415,6 +1415,12 @@
         <layout>menuObject__c-menuObject Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>newsampleObj1__c-newsampleObj1 Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>newsampleObj__c-newsampleObj Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>org_obj_sample__c-org_obj_sample Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -1649,6 +1655,24 @@
         <allowRead>true</allowRead>
         <modifyAllRecords>true</modifyAllRecords>
         <object>menuObject__c</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
+    <objectPermissions>
+        <allowCreate>true</allowCreate>
+        <allowDelete>true</allowDelete>
+        <allowEdit>true</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>true</modifyAllRecords>
+        <object>newsampleObj1__c</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
+    <objectPermissions>
+        <allowCreate>true</allowCreate>
+        <allowDelete>true</allowDelete>
+        <allowEdit>true</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>true</modifyAllRecords>
+        <object>newsampleObj__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <objectPermissions>
