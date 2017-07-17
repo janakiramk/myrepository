@@ -27,5 +27,6 @@
     <tab>standard-News</tab>
     <tab>standard-ForecastingLightning</tab>
     <tab>standard-EinsteinAnalytics</tab>
+    <tab>CustomLabel1__c</tab>
     <uiType>Lightning</uiType>
 </CustomApplication>
