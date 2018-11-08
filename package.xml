@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
-    <version>39.0</version>
+    <version>42.0</version>
     <types>
         <members>ApexCls1</members>
         <name>ApexClass</name>
@@ -86,17 +86,25 @@
         <members>Account__c</members>
         <members>Activity</members>
         <members>Asset</members>
+        <members>AssetRelationship</members>
         <members>AssistantProgress</members>
         <members>Campaign</members>
         <members>CampaignMember</members>
         <members>Case</members>
         <members>CaseContactRole</members>
+        <members>ChatterActivity</members>
+        <members>CollaborationGroup</members>
+        <members>CollaborationGroupMember</members>
         <members>Contact</members>
         <members>ContactCleanInfo</members>
         <members>ContentVersion</members>
         <members>Contract</members>
         <members>ContractContactRole</members>
         <members>CustomLabel1__c</members>
+        <members>CustomLabel2__c</members>
+        <members>CustomSettingListType1Obj__c</members>
+        <members>CustomSettingObjectInfomartionStorag__c</members>
+        <members>CustomSettingsObj1__c</members>
         <members>Custom_Object__c</members>
         <members>DandBCompany</members>
         <members>DuplicateRecordItem</members>
@@ -112,23 +120,38 @@
         <members>Macro</members>
         <members>MacroAction</members>
         <members>MacroInstruction</members>
+        <members>OBILLSwitchesObj__c</members>
         <members>Opportunity</members>
         <members>OpportunityCompetitor</members>
         <members>OpportunityContactRole</members>
         <members>OpportunityLineItem</members>
         <members>Order</members>
         <members>OrderItem</members>
+        <members>OrgDeleteRequest</members>
         <members>PartnerRole</members>
+        <members>Pass1__c</members>
+        <members>Pass2__c</members>
+        <members>Pass3__c</members>
         <members>Pricebook2</members>
         <members>PricebookEntry</members>
         <members>Product2</members>
+        <members>QuickInfoObj__c</members>
+        <members>QuickText</members>
+        <members>RecordAction</members>
+        <members>SObj1__c</members>
+        <members>Scorecard</members>
+        <members>ScorecardAssociation</members>
+        <members>ScorecardMetric</members>
         <members>Site</members>
         <members>SocialPersona</members>
         <members>Solution</members>
         <members>StreamingChannel</members>
         <members>Task</members>
+        <members>Topic</members>
+        <members>TopicAssignment</members>
         <members>User</members>
         <members>UserProvisioningRequest</members>
+        <members>commonObj__c</members>
         <members>data77__c</members>
         <members>dummy_object__c</members>
         <members>dupli_org_obj__c</members>
@@ -139,6 +162,7 @@
         <members>newsampleObj__c</members>
         <members>org_obj_sample__c</members>
         <members>random_data_777__c</members>
+        <members>stdobjapi__c</members>
         <members>test__c</members>
         <members>trunkVariable__c</members>
         <members>trunk_label__c</members>
@@ -294,6 +318,9 @@
         <name>MatchingRules</name>
     </types>
     <types>
+        <members>ARProfile10</members>
+        <members>ARProfile8</members>
+        <members>ARProfile9</members>
         <members>Admin</members>
         <members>Analytics Cloud Integration User</members>
         <members>Analytics Cloud Security User</members>
@@ -324,7 +351,9 @@
         <members>Partner Community Login User</members>
         <members>Partner Community User</members>
         <members>PlatformPortal</members>
+        <members>ProfileTest1</members>
         <members>ReadOnly</members>
+        <members>SadmPrfoile1</members>
         <members>Silver Partner User</members>
         <members>SolutionManager</members>
         <members>Standard</members>
